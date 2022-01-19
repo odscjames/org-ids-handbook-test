@@ -1,7 +1,7 @@
 Using the register
-===========================
+==================
 
-The canonical source for the org-id.guide register exists on the master branch of https://github.com/org-id/register
+The canonical source for the org-id.guide register exists on the main branch of https://github.com/org-id/register
 
 All codes with ```confirmed: true``` are part of the register.
 
