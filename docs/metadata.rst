@@ -19,17 +19,7 @@ For any list which contains entries only from a given country, the `ISO 2-digit 
 
 For lists that contain entries from multiple countries, one of the following codes should be used (NOTE:  We rely here on the fact that in ISO 3166-1 the following alpha-2 codes can be user-assigned: AA, QM to QZ, XA to XZ, and ZZ. We avoid any widely used X codes. ).
 
-+--------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Code   | Usage                                                                                                                                                                    |
-+--------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| XM     | Multilateral/international agencies. The list contains multilateral or international agencies. These organisations are generally not registered at the national level.   |
-+--------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| XI     | International. The list contains organisations based anywhere in the world. The organisations may or may not be registered at the national level.                        |
-+--------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| XR     | Regional. The list contains organisations based within a particular region. For example, organisations within the European Union, or within Africa only.                 |
-+--------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| ZZ     | Publisher created. This list was created by a publisher, and is maintained by that publisher alone.                                                                      |
-+--------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+TABLE GOES HERE
 
 
 2) List name code
